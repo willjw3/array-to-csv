@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import 'bootstrap/dist/css/bootstrap.css';
+//import '@shopify/polaris/build/esm/styles.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
